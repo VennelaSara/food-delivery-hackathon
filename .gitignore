@@ -36,12 +36,12 @@ env/
 # Data & Outputs
 # -----------------------------
 # Raw data
-*.csv
-*.json
-*.sql
-*.db
-*.sqlite
-*.sqlite3
+# *.csv
+# *.json
+# *.sql
+# *.db
+# *.sqlite
+# *.sqlite3
 
 # Processed / output data
 final_food_delivery_dataset.csv
@@ -49,13 +49,13 @@ final_food_delivery_dataset.csv
 *.h5
 *.pkl
 
-# Plots / visuals / reports
-*.png
-*.jpg
-*.jpeg
-*.gif
-*.pdf
-*.html
+# # Plots / visuals / reports
+# *.png
+# *.jpg
+# *.jpeg
+# *.gif
+# *.pdf
+# *.html
 
 # -----------------------------
 # Python Packaging / Logs
