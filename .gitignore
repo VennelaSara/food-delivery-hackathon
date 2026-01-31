@@ -44,7 +44,7 @@ env/
 # *.sqlite3
 
 # Processed / output data
-final_food_delivery_dataset.csv
+# final_food_delivery_dataset.csv
 *.parquet
 *.h5
 *.pkl
