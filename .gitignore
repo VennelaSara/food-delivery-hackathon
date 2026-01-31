@@ -1,0 +1,85 @@
+# -----------------------------
+# Python
+# -----------------------------
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*.pdb
+*.egg-info/
+dist/
+build/
+.eggs/
+*.egg
+
+# -----------------------------
+# Virtual Environments
+# -----------------------------
+venv/
+env/
+.env/
+.venv/
+
+# -----------------------------
+# VS Code
+# -----------------------------
+.vscode/
+*.code-workspace
+
+# -----------------------------
+# Jupyter Notebook
+# -----------------------------
+.ipynb_checkpoints/
+
+# -----------------------------
+# Data & Outputs
+# -----------------------------
+# Raw data
+*.csv
+*.json
+*.sql
+*.db
+*.sqlite
+*.sqlite3
+
+# Processed / output data
+final_food_delivery_dataset.csv
+*.parquet
+*.h5
+*.pkl
+
+# Plots / visuals / reports
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.pdf
+*.html
+
+# -----------------------------
+# Python Packaging / Logs
+# -----------------------------
+pip-log.txt
+pip-delete-this-directory.txt
+*.log
+
+# -----------------------------
+# Mac / Linux / Windows
+# -----------------------------
+.DS_Store
+Thumbs.db
+*.bak
+*.swp
+
+# -----------------------------
+# Streamlit specific
+# -----------------------------
+.streamlit/
+
+# -----------------------------
+# Ignore secrets / configs
+# -----------------------------
+*.env
+secrets.toml
+config.yaml
